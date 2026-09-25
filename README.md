@@ -1,5 +1,5 @@
 # tipeline
-tiny ass regexp pipelines for JavaScript
+tiny regexp pipelines for JavaScript
 
 ## Usage
 `p(string, pipeline)`
